@@ -1,5 +1,3 @@
-![Meteora](thumbnail.png)
-
 # Meteora - E-commerce de Moda
 
 O Meteora é um projeto de e-commerce em fase de desenvolvimento inicial. Este README fornece informações sobre o projeto, suas funcionalidades e como executá-lo em seu ambiente local.
@@ -62,3 +60,6 @@ npm run dev
 ## 📚 Mais informações do projeto
 
 O Meteora é um e-commerce fictício de moda em constante desenvolvimento. Este projeto visa aprimorar as habilidades em React, e apresentar a Context API como uma solução para gerenciamento de estados globais de uma aplicação React.
+
+
+### Projeto desenvolvido por Alura e executado por Vera Perazza.

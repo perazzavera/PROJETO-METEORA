@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "icone": "bi bi-x-diamond",
+    "titulo": "PAGUE PELO PIX",
+    "texto": "Ganhe 5% OFF em pagamentos via PIX!"
+  },
+  {
+    "id": 2,
+    "icone": "bi bi-arrow-repeat",
+    "titulo": "TROCA GRÁTIS",
+    "texto": "Fique livre para trocar em até 30 dias!"
+  },
+  {
+    "id": 3,
+    "icone": "bi bi-flower1",
+    "titulo": "SUSTENTABILIDADE",
+    "texto": "Moda responsável, que respeita o meio ambiente."
+  }
+]

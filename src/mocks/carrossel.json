@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "src": {
+      "desktop": "/assets/desktop/banner1-desktop.png",
+      "tablet": "/assets/tablet/banner1-tablet.png",
+      "mobile": "/assets/mobile/banner1-mobile.png"
+    },
+    "alt": "modelo feminina usando uma jaqueta rosa num fundo roxo",
+    "titulo": "",
+    "subtitulo": ""
+  },
+  {
+    "id": 2,
+    "src": {
+      "desktop": "/assets/desktop/banner2-desktop.png",
+      "tablet": "/assets/tablet/banner2-tablet.png",
+      "mobile": "/assets/mobile/banner2-mobile.png"
+    },
+    "alt": "modelo feminina usando roupas escuras e oculos de sol em um fundo rosa",
+    "titulo": "COLEÇÃO ATEMPORAL",
+    "subtitulo": "Estilo e qualidade para durar."
+  },
+  {
+    "id": 3,
+    "src": {
+      "desktop": "/assets/desktop/banner3-desktop.png",
+      "tablet": "/assets/tablet/banner3-tablet.png",
+      "mobile": "/assets/mobile/banner3-mobile.png"
+    },
+    "alt": "modelo masculino usando roupa social e um chapéu em um fundo laranja",
+    "titulo": "COLEÇÃO ATEMPORAL",
+    "subtitulo": "Alto impacto visual, baixo impacto ambiental!"
+  }
+]

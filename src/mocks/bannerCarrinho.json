@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "src": {
+      "desktop": "/banner-carrinho-desktop.png",
+      "tablet": "/banner-carrinho-tablet.png",
+      "mobile": "/banner-carrinho-mobile.png"
+    },
+    "alt": "banner carrinho"
+  }
+]

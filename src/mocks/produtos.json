@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "src": {
+      "desktop": "./assets/desktop/Cards/camiseta.png",
+      "tablet": "./assets/tablet/Cards/camiseta.png",
+      "mobile": "./assets/mobile/Cards/camiseta.png"
+    },
+    "titulo": "Camiseta Conforto",
+    "descricao": "Multicores e tamanhos. Tecido de algodão 100%, fresquinho para o verão. Modelagem unissex.",
+    "preco": 70.0,
+    "alt": "modelo masculino usando uma camiseta cor amarelo escuro e uma touca na cor preta"
+  },
+  {
+    "id": 2,
+    "src": {
+      "desktop": "./assets/desktop/Cards/calca.png",
+      "tablet": "./assets/tablet/Cards/calca.png",
+      "mobile": "./assets/mobile/Cards/calca.png"
+    },
+    "titulo": "Calça Alfaiataria",
+    "descricao": "Modelo Wide Leg alfaiataria em linho. Uma peça pra vida toda!",
+    "preco": 180.0,
+    "alt": "modelo feminina usando uma calça de alfaiataria em linho e uma blusa com estampa animal print"
+  },
+  {
+    "id": 3,
+    "src": {
+      "desktop": "./assets/desktop/Cards/tenis.png",
+      "tablet": "./assets/tablet/Cards/tenis.png",
+      "mobile": "./assets/mobile/Cards/tenis.png"
+    },
+    "titulo": "Tênis Chunky",
+    "descricao": "Snicker casual com solado mais alto e modelagem robusta. Modelo unissex.",
+    "preco": 250.0,
+    "alt": "foto de um tênis branco"
+  },
+  {
+    "id": 4,
+    "src": {
+      "desktop": "./assets/desktop/Cards/jaqueta.png",
+      "tablet": "./assets/tablet/Cards/jaqueta.png",
+      "mobile": "./assets/mobile/Cards/jaqueta.png"
+    },
+    "titulo": "Jaqueta Jeans",
+    "descricao": "Modelo unissex oversized com gola de camurça. Atemporal e autêntica!",
+    "preco": 150.0,
+    "alt": "modelo masculino usando uma jaqueta jeans com gola em camurça"
+  },
+  {
+    "id": 5,
+    "src": {
+      "desktop": "./assets/desktop/Cards/oculos.png",
+      "tablet": "./assets/tablet/Cards/oculos.png",
+      "mobile": "./assets/mobile/Cards/oculos.png"
+    },
+    "titulo": "Óculos Redondo",
+    "descricao": "Armação metálica em grafite com lentes arredondadas. Sem erro!",
+    "preco": 120.0,
+    "alt": "modelo masculino uma camiseta branca e um óculos de grau com lentes arredondadas"
+  },
+  {
+    "id": 6,
+    "src": {
+      "desktop": "./assets/desktop/Cards/bolsa.png",
+      "tablet": "./assets/tablet/Cards/bolsa.png",
+      "mobile": "./assets/mobile/Cards/bolsa.png"
+    },
+    "titulo": "Bolsa Coringa",
+    "descricao": "Bolsa camel em couro sintético de alta duração. Ideal para acompanhar você por uma vida!",
+    "preco": 120.0,
+    "alt": "modelo segurando uma bolsa de couro sintético na cor camel"
+  }
+]

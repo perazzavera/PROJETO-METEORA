@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "src": {
+      "desktop": "/assets/desktop/Categorias/camisetas.png",
+      "tablet": "/assets/tablet/Categorias/camisetas.png",
+      "mobile": "/assets/mobile/Categorias/camisetas.png"
+    },
+    "titulo": "Camisetas",
+    "alt": "camiseta verde com bolso e detalhe vermelho"
+  },
+  {
+    "id": 2,
+    "src": {
+      "desktop": "/assets/desktop/Categorias/bolsas.png",
+      "tablet": "/assets/tablet/Categorias/bolsas.png",
+      "mobile": "/assets/mobile/Categorias/bolsas.png"
+    },
+    "titulo": "Bolsas",
+    "alt": "bolsa marrom"
+  },
+  {
+    "id": 3,
+    "src": {
+      "desktop": "/assets/desktop/Categorias/calcados.png",
+      "tablet": "/assets/tablet/Categorias/calcados.png",
+      "mobile": "/assets/mobile/Categorias/calcados.png"
+    },
+    "titulo": "Calçados",
+    "alt": "par de tenis brancos sobre uma caixa"
+  },
+  {
+    "id": 4,
+    "src": {
+      "desktop": "/assets/desktop/Categorias/calcas.png",
+      "tablet": "/assets/tablet/Categorias/calcas.png",
+      "mobile": "/assets/mobile/Categorias/calcas.png"
+    },
+    "titulo": "Calças",
+    "alt": "varias calças jeans empilhadas umas sobre as outras"
+  },
+  {
+    "id": 5,
+    "src": {
+      "desktop": "/assets/desktop/Categorias/casacos.png",
+      "tablet": "/assets/tablet/Categorias/casacos.png",
+      "mobile": "/assets/mobile/Categorias/casacos.png"
+    },
+    "titulo": "Casacos",
+    "alt": "casaco marrom com zíper"
+  },
+  {
+    "id": 6,
+    "src": {
+      "desktop": "/assets/desktop/Categorias/oculos.png",
+      "tablet": "/assets/tablet/Categorias/oculos.png",
+      "mobile": "/assets/mobile/Categorias/oculos.png"
+    },
+    "titulo": "Óculos",
+    "alt": "óculos de sol com lentes redondas e armação metálica"
+  }
+]
